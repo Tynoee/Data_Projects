@@ -48,7 +48,7 @@ This portfolio covers projects across **SQL, Python, Excel, and Tableau** — fr
 | [B2B Sales Pipeline](./Sales%20Pipeline%20Analysis) | Analyzed 8,800+ opportunities across agents and products to evaluate win rates and deal lifecycles | Window Functions, Joins |
 | [Manufacturing Process Control](./Evaluate%20Manufacturing%20Process) | Applied window functions to compute statistical control limits and built an out-of-tolerance alert system | Statistical Analysis, ETL |
 | [Student Mental Health](./Student%20Mental%20Health%20Analysis) | Explored PHQ-9, SCS, and ASISS wellbeing metrics across international student cohorts | Aggregations, Filtering |
-| [COVID-19 Global Analysis](./COVID-19%20Data%20Analysis%20%26%20Visualization) | Analyzed global infection, death, and vaccination trends with an interactive Tableau dashboard | SQL + Tableau, Data Cleaning |
+| [COVID-19 Global Analysis](https://github.com/Tynoee/Data_Projects/tree/main/Covid-19%20Data%20Analysis) | Analyzed global infection, death, and vaccination trends with an interactive Tableau dashboard | SQL + Tableau, Data Cleaning |
 
 ---
 
