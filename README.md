@@ -35,8 +35,9 @@ This portfolio covers projects across **SQL, Python, Excel, and Tableau** — fr
 | Project | Description | Key Skills |
 |---|---|---|
 | [Bank Customer EDA](./Bank%20Customer%20Data%20Prep) | Cleaned 10,000+ customer records, engineered features, and identified churn drivers across segments | EDA, Feature Engineering, Pandas |
-| [Airbnb Paris Analysis](./Airbnb%20Listings%20Analysis) | Analyzed 250,000+ listings to uncover pricing patterns, host growth trends, and regulatory impacts | Data Analysis, Visualisation |
+| [Airbnb Paris Analysis](./Airbnb%20Listings%20Analysis) | Analyzed 250,000+ listings to identify pricing patterns, host growth trends, and regulatory impacts | Data Analysis, Visualization |
 | [Walmart ETL Pipeline](./Walmart%20Holiday%20Sales%20Data%20Pipeline) | Built a modular ETL pipeline integrating PostgreSQL and Parquet sources with validation and export | ETL, Data Engineering, Pandas |
+| [Movie Data Analysis](https://github.com/Tynoee/Data_Projects/tree/main/IMDb%20Movie%20Data%20Analysis) | Explored IMDb dataset to analyze movie ratings, genres, and trends using data visualization techniques | EDA, Data Visualization, Pandas |
 
 ---
 
@@ -45,10 +46,11 @@ This portfolio covers projects across **SQL, Python, Excel, and Tableau** — fr
 | Project | Description | Key Skills |
 |---|---|---|
 | [Hospital Analytics](./Hospital%20Analytics) | Queried 75,000+ patient records to analyze encounter trends, readmissions, and cost gaps | Subqueries, Time Series, Aggregations |
-| [B2B Sales Pipeline](./Sales%20Pipeline%20Analysis) | Analyzed 8,800+ opportunities across agents and products to evaluate win rates and deal lifecycles | Window Functions, Joins |
-| [Manufacturing Process Control](./Evaluate%20Manufacturing%20Process) | Applied window functions to compute statistical control limits and built an out-of-tolerance alert system | Statistical Analysis, ETL |
-| [Student Mental Health](./Student%20Mental%20Health%20Analysis) | Explored PHQ-9, SCS, and ASISS wellbeing metrics across international student cohorts | Aggregations, Filtering |
-| [COVID-19 Global Analysis](https://github.com/Tynoee/Data_Projects/tree/main/Covid-19%20Data%20Analysis) | Analyzed global infection, death, and vaccination trends with an interactive Tableau dashboard | SQL + Tableau, Data Cleaning |
+| [B2B Sales Pipeline](./Sales%20Pipeline%20Analysis) | Analyzed 8,800+ opportunities to evaluate win rates and deal lifecycles | Window Functions, Joins |
+| [Manufacturing Process Control](./Manufacturing%20SPC%20Monitoring) | Applied window functions to compute statistical control limits and detect out-of-tolerance values | Statistical Analysis, Window Functions |
+| [Nashville Housing Data Cleaning](https://github.com/Tynoee/Data_Projects/tree/main/Nashville%20Housing%20SQL%20Data%20Cleaning) | Cleaned and transformed raw housing data using SQL (joins, CTEs, and string functions) | SQL Cleaning, CTEs, Joins |
+| [Student Mental Health](./Student%20Mental%20Health%20Analysis) | Explored mental health metrics across international students using aggregations and filtering | Aggregations, Filtering |
+| [COVID-19 Global Analysis](./COVID-19%20Data%20Analysis) | Analyzed global COVID-19 trends and visualized insights using SQL and Tableau | SQL + Tableau, Data Cleaning |
 
 ---
 
