@@ -30,11 +30,11 @@ To perform data cleaning, exploration, and visualization on a real-world movie d
 
 ## Key Insights
 
-✅ Most common genres in the dataset  
-✅ Relationship between movie runtime and rating  
-✅ Rating trends over years  
-✅ Top directors by average rating  
-✅ Correlation heatmap of numerical features  
+- Most common genres in the dataset  
+- Relationship between movie runtime and rating  
+- Rating trends over years  
+- Top directors by average rating  
+- Correlation heatmap of numerical features  
 
 
 
