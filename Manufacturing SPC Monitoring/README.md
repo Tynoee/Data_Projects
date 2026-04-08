@@ -3,6 +3,11 @@
 ## Project Overview
 This project implements Statistical Process Control (SPC) to monitor manufacturing quality. Using SQL window functions and Python analysis, it calculates control limits (UCL/LCL) and flags out-of-spec parts requiring process adjustments.
 
+## Tools & Technologies
+- SQL  
+- Python (Pandas, NumPy, Matplotlib)  
+- Jupyter Notebook  
+
 ## Key Skills Demonstrated
 - **SQL**: Window functions, nested queries, rolling calculations
 - **Python**: Pandas, NumPy, Matplotlib, data transformation
