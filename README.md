@@ -36,7 +36,7 @@ This portfolio covers projects across **SQL, Python, Excel, and Tableau** — fr
 |---|---|---|
 | [Bank Customer EDA](./Bank%20Customer%20Data%20Prep) | Cleaned 10,000+ customer records, engineered features, and identified churn drivers across segments | EDA, Feature Engineering, Pandas |
 | [Airbnb Paris Analysis](./Airbnb%20Listings%20Analysis) | Analyzed 250,000+ listings to identify pricing patterns, host growth trends, and regulatory impacts | Data Analysis, Visualization |
-| [Walmart ETL Pipeline](./Walmart%20Holiday%20Sales%20Data%20Pipeline) | Built a modular ETL pipeline integrating PostgreSQL and Parquet sources with validation and export | ETL, Data Engineering, Pandas |
+| [Walmart ETL Pipeline](https://github.com/Tynoee/Data_Projects/tree/main/E-Commerce%20Data%20Pipeline%20(Walmart)) | Built a modular ETL pipeline integrating PostgreSQL and Parquet sources with validation and export | ETL, Data Engineering, Pandas |
 | [Movie Data Analysis](https://github.com/Tynoee/Data_Projects/tree/main/IMDb%20Movie%20Data%20Analysis) | Explored IMDb dataset to analyze movie ratings, genres, and trends using data visualization techniques | EDA, Data Visualization, Pandas |
 
 ---
@@ -50,7 +50,7 @@ This portfolio covers projects across **SQL, Python, Excel, and Tableau** — fr
 | [Manufacturing Process Control](./Manufacturing%20SPC%20Monitoring) | Applied window functions to compute statistical control limits and detect out-of-tolerance values | Statistical Analysis, Window Functions |
 | [Nashville Housing Data Cleaning](https://github.com/Tynoee/Data_Projects/tree/main/Nashville%20Housing%20SQL%20Data%20Cleaning) | Cleaned and transformed raw housing data using SQL (joins, CTEs, and string functions) | SQL Cleaning, CTEs, Joins |
 | [Student Mental Health](./Student%20Mental%20Health%20Analysis) | Explored mental health metrics across international students using aggregations and filtering | Aggregations, Filtering |
-| [COVID-19 Global Analysis](./COVID-19%20Data%20Analysis) | Analyzed global COVID-19 trends and visualized insights using SQL and Tableau | SQL + Tableau, Data Cleaning |
+| [COVID-19 Global Analysis](https://github.com/Tynoee/Data_Projects/tree/main/Covid-19%20Data%20Analysis) | Analyzed global COVID-19 trends and visualized insights using SQL and Tableau | SQL + Tableau, Data Cleaning |
 
 ---
 
